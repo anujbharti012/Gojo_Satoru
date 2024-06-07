@@ -31,7 +31,7 @@
       "DB_URI": {
         "description": "Your MongoDB connection string.",
         "required": false,
-        "value": ""
+        "value": "mongodb+srv://anujbharti4333:<password>@cluster0.7ufkypv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
       },
       "DB_NAME": {
         "description": "Your MongoDB database name.",
